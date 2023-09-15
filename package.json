@@ -1,0 +1,27 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chaubol0704/B2017024_CHAUBOL_BACKEND2.git"
+  },
+  "author": "Chau Bol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaubol0704/B2017024_CHAUBOL_BACKEND2/issues"
+  },
+  "homepage": "https://github.com/chaubol0704/B2017024_CHAUBOL_BACKEND2#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^6.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
